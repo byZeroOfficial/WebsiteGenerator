@@ -11,7 +11,7 @@
 </p>
 
 <p align="center">
-    <i><b>Make a issue</b> if you want to request a new icon.</i>
+    <i><b>Make an issue</b> if you want to request a new icon.</i>
 
 ## Run via pip
 
