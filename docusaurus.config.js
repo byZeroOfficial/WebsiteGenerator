@@ -56,7 +56,7 @@ const config = {
             label: 'Documentation',
           },
           {
-            href: 'https://demo.generator.byzero.dev',
+            href: 'https://web.archive.org/web/20221006092949/https://demo.generator.byzero.dev/',
             label: 'Demo',
             position: 'left',
           },
